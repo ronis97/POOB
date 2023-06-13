@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Evaluator
+comment1.params=r\ appUrl
+comment1.target=int\ evaluate(Requirement,\ java.lang.String)
+comment1.text=\r\n\ \ \r\n
+numComments=2

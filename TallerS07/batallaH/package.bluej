@@ -1,0 +1,217 @@
+#BlueJ package file
+<<<<<<< HEAD
+dependency1.from=Barco
+dependency1.to=Marino
+=======
+<<<<<<< HEAD
+dependency1.from=Maquina
+dependency1.to=Ubicacion
+dependency1.type=UsesDependency
+dependency2.from=Flota
+dependency2.to=Tablero
+dependency2.type=UsesDependency
+dependency3.from=Flota
+dependency3.to=Marino
+dependency3.type=UsesDependency
+dependency4.from=Flota
+dependency4.to=Maquina
+dependency4.type=UsesDependency
+editor.fx.0.height=739
+editor.fx.0.width=816
+editor.fx.0.x=275
+editor.fx.0.y=-4
+objectbench.height=93
+objectbench.width=451
+package.divider.horizontal=0.599476439790576
+package.divider.vertical=0.8
+package.editor.height=393
+package.editor.width=657
+package.editor.x=78
+package.editor.y=78
+package.frame.height=600
+package.frame.width=800
+package.numDependencies=4
+package.numTargets=8
+=======
+dependency1.from=Flota
+dependency1.to=Tablero
+>>>>>>> 59ae57d5c651c2994d4de96c90ae62bdff363dea
+dependency1.type=UsesDependency
+dependency2.from=PortaAviones
+dependency2.to=Avion
+dependency2.type=UsesDependency
+dependency3.from=Avion
+dependency3.to=Marino
+dependency3.type=UsesDependency
+dependency4.from=Flota
+dependency4.to=Tablero
+dependency4.type=UsesDependency
+dependency5.from=Flota
+dependency5.to=Marino
+dependency5.type=UsesDependency
+dependency6.from=Flota
+dependency6.to=Maquina
+dependency6.type=UsesDependency
+dependency7.from=Maquina
+dependency7.to=Ubicacion
+dependency7.type=UsesDependency
+dependency8.from=Ubicacion
+dependency8.to=BatallaNavalExcepcion
+dependency8.type=UsesDependency
+dependency9.from=Tablero
+dependency9.to=Flota
+dependency9.type=UsesDependency
+editor.fx.0.height=878
+editor.fx.0.width=1488
+editor.fx.0.x=-7
+editor.fx.0.y=-7
+objectbench.height=66
+objectbench.width=1431
+package.divider.horizontal=0.6
+package.divider.vertical=0.9060574948665298
+package.editor.height=700
+package.editor.width=1316
+package.editor.x=0
+package.editor.y=0
+package.frame.height=878
+<<<<<<< HEAD
+package.frame.width=1469
+package.numDependencies=9
+package.numTargets=10
+=======
+package.frame.width=1488
+package.numDependencies=7
+package.numTargets=9
+>>>>>>> 481d9ab51380ce7ddec4272f7572a7899a534a22
+>>>>>>> 59ae57d5c651c2994d4de96c90ae62bdff363dea
+package.showExtends=true
+package.showUses=true
+project.charset=UTF-8
+readme.height=60
+readme.name=@README
+readme.width=49
+readme.x=10
+readme.y=10
+target1.height=70
+target1.name=Barco
+target1.showInterface=false
+target1.type=ClassTarget
+target1.width=120
+<<<<<<< HEAD
+target1.x=130
+target1.y=10
+=======
+target1.x=440
+target1.y=490
+<<<<<<< HEAD
+target10.height=70
+target10.name=Marino
+target10.showInterface=false
+target10.type=ClassTarget
+target10.width=120
+target10.x=40
+target10.y=320
+=======
+>>>>>>> 481d9ab51380ce7ddec4272f7572a7899a534a22
+>>>>>>> 59ae57d5c651c2994d4de96c90ae62bdff363dea
+target2.height=70
+target2.name=Ubicacion
+target2.showInterface=false
+target2.type=ClassTarget
+target2.width=120
+<<<<<<< HEAD
+target2.x=10
+target2.y=90
+=======
+target2.x=100
+target2.y=60
+>>>>>>> 481d9ab51380ce7ddec4272f7572a7899a534a22
+target3.height=70
+target3.name=Maquina
+target3.showInterface=false
+target3.type=ClassTarget
+target3.width=120
+<<<<<<< HEAD
+target3.x=140
+target3.y=90
+=======
+target3.x=330
+target3.y=230
+>>>>>>> 481d9ab51380ce7ddec4272f7572a7899a534a22
+target4.height=70
+target4.name=Tablero
+target4.showInterface=false
+target4.type=ClassTarget
+target4.width=120
+<<<<<<< HEAD
+target4.x=10
+target4.y=170
+=======
+target4.x=940
+target4.y=230
+>>>>>>> 481d9ab51380ce7ddec4272f7572a7899a534a22
+target5.height=70
+target5.name=PortaAviones
+target5.showInterface=false
+target5.type=ClassTarget
+target5.width=120
+<<<<<<< HEAD
+target5.x=380
+target5.y=170
+=======
+target5.x=790
+target5.y=490
+>>>>>>> 481d9ab51380ce7ddec4272f7572a7899a534a22
+target6.height=70
+target6.name=Avion
+target6.showInterface=false
+target6.type=ClassTarget
+target6.width=120
+<<<<<<< HEAD
+target6.x=10
+target6.y=250
+target7.height=70
+target7.name=Flota
+target7.showInterface=false
+target7.type=ClassTarget
+target7.width=120
+target7.x=140
+target7.y=250
+target8.height=70
+target8.name=Marino
+target8.showInterface=false
+target8.type=ClassTarget
+target8.width=120
+target8.x=10
+target8.y=330
+=======
+target6.x=230
+target6.y=550
+target7.height=70
+target7.name=CapsulaSubmarina
+target7.showInterface=false
+target7.type=ClassTarget
+target7.width=140
+target7.x=520
+target7.y=30
+target8.height=70
+target8.name=Flota
+target8.showInterface=false
+target8.type=ClassTarget
+target8.width=120
+target8.x=600
+target8.y=410
+target9.height=70
+target9.name=BatallaNavalExcepcion
+target9.showInterface=false
+target9.type=ClassTarget
+<<<<<<< HEAD
+target9.width=170
+target9.x=850
+target9.y=20
+=======
+target9.width=120
+target9.x=40
+target9.y=320
+>>>>>>> 481d9ab51380ce7ddec4272f7572a7899a534a22
+>>>>>>> 59ae57d5c651c2994d4de96c90ae62bdff363dea

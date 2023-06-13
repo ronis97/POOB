@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Flota
+comment0.text=\r\n\ The\ Flota\ class\ contains\ all\ own\ ships\r\n\ \r\n
+comment1.params=
+comment1.target=void\ alNorte()
+comment1.text=\r\n\ This\ method\ moves\ the\ fleet\ one\ position\ north\r\n
+comment2.params=dLon\ dLat
+comment2.target=void\ avance(int,\ int)
+comment2.text=\r\n\ This\ method\ move\ all\ machines\ the\ defined\ distance\r\n\ @\ param\ dLon,\ dLon\ is\ the\ advance\ in\ length\r\n\ @\ param\ dLat,\ dLat\ is\ the\ advance\ in\ latitude\r\n
+comment3.params=longitud\ latitud
+comment3.target=java.util.ArrayList\ seranDestruidas(int,\ int)
+comment3.text=\r\n\ This\ method\ consult\ the\ machines\ that\ can\ be\ affected\ by\ \r\n\ an\ explotion\ in\ the\ position\ of\r\n\ @\ param\ longitud,\ longitud\ is\ the\ lenght\ of\ the\ fleet\r\n\ @\ param\ latitud,\ latitud\ is\ the\ latitude\ of\ the\ fleet\r\n\ @\ return\ destruidas,\ destruidas\ is\ the\ machines\ destroyed\ in\ the\ fleet\r\n\ Observation....\r\n\ Many\ machines\ can\ be\ in\ a\ coordinate.\r\n\ Airplanes\ are\ not\ destroyed\r\n
+comment4.params=
+comment4.target=java.util.ArrayList\ maquinasDebiles()
+comment4.text=\r\n\ This\ method\ consult\ weak\ machines\ in\ a\ fleet\r\n\ @\ return\ debiles,\ debiles\ is\ the\ weak\ machines\ in\ a\ fleet\r\n
+comment5.params=longitud\ latitud
+comment5.target=boolean\ esBuenAtaque(int,\ int)
+comment5.text=\r\n\ This\ method\ attack\ location\ verification\r\n\ (Destroy\ enemy\ items\ and\ never\ take\ your\ own\ casualites)\r\n\ @\ param\ longitud,\ longitud\ is\ the\ lenght\ of\ the\ fleet\r\n\ @\ param\ latitud,\ latitud\ is\ the\ latitude\ of\ the\ fleet\r\n\ @\ return\ boolean,\ true\ is\ attack\ location\ verification,\ false\ otherwise\r\n
+comment6.params=lon\ lat
+comment6.target=void\ ataquen(int,\ int)
+comment6.text=\r\n\ This\ method\ moves\ all\ machines\ that\ are\ not\ weak\ step\ by\ step\ \r\n\ (one\ by\ one)\ towards\ the\ indicated\ position\ to\ attack.\r\n\ @\ param\ lon,\ lon\ is\ the\ lenght\ the\ new\ position\ to\ attack.\r\n\ @\ param\ lat,\ lat\ is\ the\ latitude\ the\ new\ position\ to\ attack.\r\n
+comment7.params=
+comment7.target=java.util.ArrayList\ pilotos()
+comment8.params=
+comment8.target=int\ potencia()
+numComments=9

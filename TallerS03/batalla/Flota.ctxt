@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Flota
+comment1.params=
+comment1.target=Flota()
+comment2.params=
+comment2.target=int\ disponibilidadEnPortaAviones()
+comment2.text=\r\n\ \r\n
+comment3.params=
+comment3.target=java.util.ArrayList\ enAire()
+comment3.text=\r\n\ \r\n
+comment4.params=longitud\ latitud
+comment4.target=boolean\ esBuenAtaque(int,\ int)
+comment5.params=deltaLongitud\ deltaLatitud
+comment5.target=void\ muevase(int,\ int)
+comment5.text=\r\n\ \r\n
+comment6.params=
+comment6.target=boolean\ problemaEnAire()
+comment6.text=\r\n\ \r\n
+comment7.params=longitud\ latitud
+comment7.target=java.util.ArrayList\ seranDestruidas(int,\ int)
+comment7.text=\r\n\ \r\n
+comment8.params=
+comment8.target=java.util.ArrayList\ avionesEnAire()
+numComments=9

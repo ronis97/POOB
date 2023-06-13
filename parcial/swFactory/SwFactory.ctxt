@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=SwFactory
+comment1.params=projectName
+comment1.target=boolean\ deleteFinishProject(java.lang.String)
+comment1.text=\r\n\ Remueve\ el\ proyecto\ del\ sistema\ si\ ya\ finalizo\r\n\ Invariante\ del\ metodo\:\ El\ hashMap\ projects\ no\ puede\ ser\ vacio\r\n\ @\ param\ projectName\ El\ nombre\ del\ proyecto\ dado\ como\ una\ cadena\r\n\ @\ return\ Si\ el\ proyecto\ fue\ borrado\ exitosamente.\r\n
+numComments=2

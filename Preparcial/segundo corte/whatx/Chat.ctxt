@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Chat
+comment1.params=tags
+comment1.target=void\ tag(java.util.ArrayList)
+comment1.text=\r\n\ Associate\ elements\ to\ business\ tags\r\n\ @Param\ tags\ ArrayList\ of\ tags\r\n\ @throws\ WhatxException\ NO_TAGS\ tags\ list\ is\ empty\r\n\ @throws\ WhatxException\ TAGGED\ the\ user\ is\ already\ associated\ with\ some\ tag\r\n\ @throws\ WhatxException\ INCOMPLETE_INFORMATION\ any\ tags\ don\u2019t\ have\ complete\ information\r\n\ @throws\ WhatxException\ NO_MEMBERS\ chat\ doesn\u2019t\ have\ any\ members\r\n
+comment2.params=
+comment2.target=java.util.ArrayList\ getmembers()
+numComments=3

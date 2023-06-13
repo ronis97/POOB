@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Requirement
+comment1.params=
+comment1.target=java.lang.String\ getUrl()
+comment2.params=r\ appUrl
+comment2.target=int\ evaluate(Requirement,\ java.lang.String)
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Client
+comment1.params=projectName
+comment1.target=Project\ loadProjectByName(java.lang.String)
+comment1.text=\r\n\ Carga\ el\ proyecto\ dada\ una\ cadena\ dada.\r\n\ @param\ projectName\ el\ nombre\ del\ proyecto\ en\ String\r\n\ @return\ el\ objeto\ proyecto\ solicitado.\r\n
+comment2.params=projectName
+comment2.target=boolean\ deleteProject(java.lang.String)
+comment2.text=\r\n\ Borra\ el\ proyecto\ dado\ el\ nombre\r\n\ @param\ projectName\ el\ nombre\ del\ proyecto\ en\ String\r\n\ @return\ Si\ el\ proyecto\ fue\ borrado\ exitosamente\r\n
+numComments=3

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=HumanEvaluator
+comment1.params=r\ appUrl
+comment1.target=int\ evaluate(Requirement,\ java.lang.String)
+comment2.params=
+comment2.target=boolean\ deletedEvaluator()
+comment2.text=\r\n\ Borra\ el\ evaluador\r\n\ @return\ si\ el\ evaluador\ fue\ borrado\ exitosamente\r\n
+numComments=3

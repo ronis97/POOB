@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Inscription
+comment1.params=
+comment1.target=boolean\ notifyDevelopers()
+comment1.text=\r\n\ Notifica\ a\ los\ desarrolladores\r\n\ @return\ si\ los\ desarrolladores\ fueron\ notificados\ \r\n\ exitosamente\r\n
+numComments=2

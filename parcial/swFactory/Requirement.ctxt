@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Requirement
+comment1.params=
+comment1.target=boolean\ deleteRequirements()
+comment1.text=\r\n\ Borra\ el\ requerimiento\r\n\ @return\ Si\ el\ requerimiento\ fue\ borrado\ exitosamente\r\n
+numComments=2

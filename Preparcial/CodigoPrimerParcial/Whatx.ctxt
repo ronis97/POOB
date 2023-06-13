@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Whatx
+comment0.text=\r\n\ Invariante\ del\ metodo\r\n\ El\ arrayList\ de\ chats\ no\ puede\ estar\ vacio\r\n\ \r\n
+comment1.params=chatName\ msgId
+comment1.target=boolean\ deleteMessage(java.lang.String,\ int)
+comment2.params=chatName
+comment2.target=Chat\ findChat(java.lang.String)
+comment2.text=\r\n\ Encuentra\ el\ chat\ dado\ el\ nombre\r\n\ @param\ String\ chatName\ el\ nombre\ del\ chat\r\n\ @return\ Chat\ el\ objeto\ Chat,\ este\ es\ nulo\ si\ no\ encontro\ el\ chat\r\n
+numComments=3

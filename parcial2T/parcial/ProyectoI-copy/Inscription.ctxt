@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Inscription
+comment1.params=
+comment1.target=java.lang.String\ getIdProject()
+comment2.params=
+comment2.target=int\ evaluatePercentage()
+comment3.params=
+comment3.target=Team\ getWinner()
+numComments=4

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=SwFactory
+comment1.params=idProyect
+comment1.target=Team\ foundTeamWinner(java.lang.String)
+comment1.text=\r\n\ Encuentra\ un\ equipo\ para\ el\ proyecto\ especifico\r\n\ @param\ idProyect\ El\ id\ del\ proyecto\ donde\ se\ quiere\ buscar\ el\ equipo\r\n\ @return\ Team\ el\ equipo\ que\ tiene\ el\ mayor\ porcentaje\r\n\ @throws\ SwFactoryException\ PROJECT\ NOT\ FOUND\ el\ proyecto\ no\ fue\ encontrado\r\n\ @throws\ SwFactoryException\ PROJECT\ HAS\ WINNER\ el\ proyecto\ ya\ tiene\ ganador\r\n
+comment2.params=idProyect
+comment2.target=Project\ loadProjectById(java.lang.String)
+comment2.text=\r\n\ Devuelve\ el\ proyecto\ por\ su\ identificacion\r\n\ @param\ idProyect\ el\ id\ del\ proyecto\ a\ encontrar\r\n\ @return\ Project\ el\ proyecto\ solicitado\r\n\ @throws\ SwFactoryException\ PROJECT\ NOT\ FOUND\ el\ proyecto\ no\ fue\ encontrado\r\n
+comment3.params=idProyect
+comment3.target=Inscription\ loadInscriptionByProject(java.lang.String)
+comment3.text=\r\n\ Devuelve\ la\ inscripcion\ por\ el\ id\ del\ proyecto\r\n\ @param\ idProyect\ el\ id\ del\ proyecto\ asociado\ a\ la\ inscripcion\r\n\ @return\ Inscription\ la\ inscripcion\ solicitada\r\n
+numComments=4

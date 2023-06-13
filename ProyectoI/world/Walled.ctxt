@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Walled
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Walled\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=color\ x\ y\ nArmies\ armiesToConquer\ world\ nNation
+comment1.target=Walled(java.lang.String,\ int,\ int,\ int,\ int,\ shapes.Rectangle,\ int)
+numComments=2

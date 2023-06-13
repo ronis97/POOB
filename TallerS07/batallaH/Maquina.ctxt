@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Maquina
+comment1.params=dLon\ dLat
+comment1.target=void\ avance(int,\ int)
+comment1.text=\r\n\ \r\n
+comment2.params=longitud\ latitud
+comment2.target=boolean\ seraDestruida(int,\ int)
+comment2.text=\r\n\ \r\n
+comment3.params=
+comment3.target=boolean\ maquinaDebil()
+comment3.text=\r\n\ \r\n
+comment4.params=
+comment4.target=boolean\ autoDestruccion()
+comment5.params=
+comment5.target=void\ alNorte()
+numComments=6

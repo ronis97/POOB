@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Tablero
+comment1.params=
+comment1.target=int\ alNorte()
+comment2.params=
+comment2.target=java.util.ArrayList\ infiltrados()
+comment3.params=
+comment3.target=int\ potencia()
+numComments=4

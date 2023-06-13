@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Project
+comment1.params=
+comment1.target=int\ calculateExperience()
+comment1.text=\r\n\ @see\ Feedbacker\#calculateExperience()\r\n\ \r\n\ \ \r\n
+comment2.params=
+comment2.target=java.lang.String\ getId()
+comment3.params=
+comment3.target=Inscription\ getWinner()
+comment4.params=urlApp
+comment4.target=int\ evaluateProject(java.lang.String)
+numComments=5

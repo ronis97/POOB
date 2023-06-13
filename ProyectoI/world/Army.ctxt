@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Army
+comment0.text=\r\n\ The\ army\ class,\ they\ are\ the\ armies\ that\ each\ nation\ has\r\n\ and\ those\ that\ each\ one\ needs\ to\ be\ conquered\r\n\r\n\ @author\ Cesar\ Vasquez\ -\ Ronaldo\ Henao\r\n\ @version\ 1.0\ \ (September\ 2nd,\ 2021)\r\n
+comment1.params=actualArmies\ toConquer\ Figura
+comment1.target=Army(int,\ int,\ shapes.Rectangle)
+comment1.text=\r\n\ Create\ an\ army\r\n\ @\ param\ actualArmies,\ actualArmies\ are\ the\ armed\ forces\ that\ the\ nation\ has\r\n\ @\ param\ toConquer,\ toConquer\ are\ the\ armies\ to\ conquer\ a\ born\r\n\ @\ param\ Figura,\ Figura\ is\ the\ representation\ of\ the\ armies\r\n
+comment2.params=
+comment2.target=boolean\ isConquered()
+comment2.text=\r\n\ This\ method\ if\ a\ nation\ is\ conquered\r\n\ @\ return\ boolean\r\n
+comment3.params=
+comment3.target=void\ putArmies()
+comment3.text=\r\n\ This\ method\ puts\ the\ armies\r\n
+comment4.params=
+comment4.target=void\ addArmy()
+comment4.text=\r\n\ This\ method\ adds\ an\ army\r\n
+comment5.params=
+comment5.target=void\ delArmy()
+comment5.text=\r\n\ This\ method\ remove\ an\ army\r\n
+comment6.params=
+comment6.target=int\ getActualArmy()
+comment6.text=\r\n\ This\ method\ returns\ the\ current\ number\ of\ arms\r\n\ @\ return\ actualArmies,\ actualArmies\ is\ the\ number\ the\ armies\ of\ the\ nation\ \r\n
+numComments=7

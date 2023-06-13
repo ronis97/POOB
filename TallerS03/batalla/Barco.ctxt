@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Barco
+comment1.params=deltaLongitud\ deltaLatitud
+comment1.target=void\ muevase(int,\ int)
+numComments=2

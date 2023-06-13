@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Project
+comment1.params=
+comment1.target=boolean\ deleteProject()
+comment1.text=\r\n\ Borra\ el\ proyecto,\ los\ requerimientos\ y\ notifica\ \r\n\ a\ los\ desarrolladores\r\n\ @return\ si\ el\ proyecto\ fue\ borrado\ exitosamente.\r\n
+numComments=2
